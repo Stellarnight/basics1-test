@@ -55,7 +55,7 @@ var main = function (input) {
     `The computer has won ${scoreGlobalCom} times. ` +
     ` There are ${scoreDraw} draws. `
   );
-};
+};/
 
 //Reverse Mode SCP - IGNORE THIS FOR NOW. NOT COMPLETED
 var reverseSCP = function () {
